@@ -1,3 +1,5 @@
 # Hi, I'm Joel Tomino👋
 
-- I studied Mechanical Engineering, currently training as a self-taught towards a profile oriented to data and programming.
+- Estudié Ingeniería Mecánica, actualmente formándome como autodidacta hacia un perfil orientado a los datos y programación.
+- Todos mis proyectos están disponibles en https://github.com/joeltmn
+
